@@ -60,6 +60,12 @@ class AppBarWidget extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                   color: Colors.white),
             ),
+            SizedBox(
+              height: 40.0,
+            ),
+            TextField(
+              decoration: InputDecoration(),
+            ),
           ],
         ),
       ),
