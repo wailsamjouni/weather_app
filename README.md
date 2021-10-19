@@ -1,6 +1,7 @@
 # weather_app
 
 A new Flutter project.
+The Idea of this Design Project is token from www.dribbble.com
 
 ## Getting Started
 
