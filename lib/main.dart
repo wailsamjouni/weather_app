@@ -37,7 +37,7 @@ class MyHomePage extends StatelessWidget {
             bottom: 0.0,
             child: Container(
               color: Color(0xff38383d),
-              height: heightOfScreen / 2.3,
+              height: heightOfScreen / 2.2,
               width: widthOfScreen,
             )),
         AppBarWidget(),
